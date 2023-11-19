@@ -37,6 +37,13 @@ This is a layered monolith application that consists of the following applicatio
 * `Acme.BookStore.HttpApi.Host`: ASP.NET Core API application that is used to expose the APIs to the clients.
 * `Acme.BookStore.Blazor`: ASP.NET Core Blazor Server application that is the essential web application of the solution.
 
+### Default Admin Credentials
+
+To access the admin features, use the following default credentials:
+
+- **Username:** admin
+- **Password:** 1q2w3E*
+
 🤝 **Contribute:**
 We welcome contributions! Submit issues, share your ideas, or open pull requests to make this Book Store App even better.
 
