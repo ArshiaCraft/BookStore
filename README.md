@@ -1,8 +1,5 @@
 # BookStore
 
-Certainly! If you're looking for a concise and appealing description for your GitHub repository, here's a suggestion:
-
----
 
 📚 **Book Store App with ABP Framework**
 
